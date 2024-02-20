@@ -1,4 +1,4 @@
-import ServicesBox from "./ServicesBox.jsx";
+// import ServicesBox from "./ServicesBox.jsx";
 
 const Service = () => {
     return (
@@ -11,7 +11,7 @@ const Service = () => {
        </div>
        {/* Services Card */}
        <div> 
-        <ServicesBox />
+        {/* <ServicesBox /> */}
 
        </div>
        
