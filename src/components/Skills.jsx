@@ -12,9 +12,10 @@ const Skills = () => {
                 <div className="sm:order-1 text-slate-600">
                    {/* adding the skills with level */}
                    <SkillsLevel skillName ="HTML" percentage="90%"/>
-                   <SkillsLevel skillName ="CSS" percentage="85%"/>
+                   
                    <SkillsLevel skillName ="TAILWIND" percentage="80%"/>
                    <SkillsLevel skillName ="REACT" percentage="75%"/>
+                   <SkillsLevel skillName= "JavaScript" percentage="70%" />
                 </div>
 
             </div>

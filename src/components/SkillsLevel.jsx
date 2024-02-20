@@ -1,6 +1,4 @@
 
-
-
 const SkillsLevel = ({ skillName, percentage}) => {
 
     return(
