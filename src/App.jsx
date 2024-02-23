@@ -4,6 +4,7 @@ import Hero from "./components/Hero.jsx"
 import About from "./components/About.jsx"
 import Skills from "./components/Skills.jsx"
 import Service from "./components/service.jsx"
+import Footer from "./components/Footer.jsx"
 
 
 
@@ -16,7 +17,7 @@ function App() {
  <About />
  <Skills />
  <Service />
-
+ <Footer />
     </>
   )
 }

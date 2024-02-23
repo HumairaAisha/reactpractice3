@@ -71,7 +71,7 @@ const Navbar = ()=>{
                     <div className="flex items-center gap-4">
                             {/* theme toggle */}
                         {
-                            theme === "dark" ? (
+                                 theme === "dark" ? (
                             <BiSolidSun className="text-2xl dark:text-white" onClick={() => setTheme("light")}  />
                                 ) : (
                                     <BiSolidMoon className="text-2xl cursor-pointer" onClick={() => setTheme("dark")}  />
